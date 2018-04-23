@@ -2,5 +2,5 @@
 
 | Type | Component | Variation |
 --- | --- | ---
-| Form | Input | - [ ] With Label - [ ] With error message - [ ] Disabled |
-| | Drop-down | - [ ] With Label - [ ] With error message - [ ] Disabled - [ ] Open with list of options |
+| Form | Input |  <ul><li>[ ] With label</li><li>[ ] With error message</li><li>[ ] Disabled</li></ul> |
+| | Drop-down | <ul><li>[ ] With label</li><li>[ ] With error message</li><li>[ ] Disabled</li><li>[ ] List of options visible</li></ul> |
